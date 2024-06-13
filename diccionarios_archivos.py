@@ -34,8 +34,8 @@ def guardar_diccionario(diccionario, nombre_archivo):
         archivo.writelines(lineas)
 
 
-def main():
+'''def main():
     palabras = leer_archivo('archivo.txt')
     guardar_diccionario(palabras, 'output.txt')
 
-main()
+main()'''
