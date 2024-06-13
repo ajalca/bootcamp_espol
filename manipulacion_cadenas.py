@@ -5,9 +5,9 @@
 def invertir_cadena(cadena):
     return cadena[::-1]
 # Ejemplo
-cadena_texto = "GANO SELECCION"
-invertir_cadena = invertir_cadena(cadena_texto)
-print(invertir_cadena)
+# cadena_texto = "GANO SELECCION"
+# invertir_cadena = invertir_cadena(cadena_texto)
+# print(invertir_cadena)
 
 def contar_vocales(cadena):
     vocales = "aeiouAEIOU"
@@ -18,6 +18,6 @@ def contar_vocales(cadena):
     return contador
 
 # Ejemplo
-texto = "GANO SELECCION"
-vocales_contador = contar_vocales(texto)
-print(vocales_contador)
+# texto = "GANO SELECCION"
+# vocales_contador = contar_vocales(texto)
+# print(vocales_contador)
