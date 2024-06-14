@@ -1,4 +1,5 @@
 # Coding Bootcamp Espol
+De la ruta del proyecto, en el terminal escribir: python main.py
 # Taller de Git en Python
 **Objetivo**: Trabajar con datos de ventas utilizando Pandas para realizar tareas de análisis y manipulación de datos. Cada integrante del equipo tendrá una tarea específica. Al final, se deberá combinar el trabajo de todos y subirlo a un repositorio en GitHub.
 # Descripción
